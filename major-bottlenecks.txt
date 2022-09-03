@@ -1,9 +1,9 @@
 # major-bottlenecks
 
-- cctv - for game monitoring
+- cctv
   - technical
-    - many cameras
+    - many cameras 
     - audio limited to one camera at a time 
   - physical
     - cheap dvr system means all cameras are wired directly to a single point of use
-    - 
+    - some cameras need independent power as well as a home run
